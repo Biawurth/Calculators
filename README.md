@@ -1,2 +1,2 @@
 # FirstProjects
-My first projects as an Python developer student.
+My first calculators projects as an Python developer student.
